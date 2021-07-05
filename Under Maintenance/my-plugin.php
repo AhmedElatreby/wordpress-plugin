@@ -1,7 +1,8 @@
 <?php
 /**
-*Plugin Name: my plugin 
+*Plugin Name: Under Maintenance 
 *Description: This is my first plugin! 
+* Version: 1.1
 *Author: Ahmed
 */
 
